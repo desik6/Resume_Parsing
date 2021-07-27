@@ -8,4 +8,4 @@ College,
 Degree, 
 Graduation Year, 
 Companies worked at, 
-Email address,
+Email address
